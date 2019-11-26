@@ -1,4 +1,4 @@
-# Streaming Twitter rock climbing data into an MYSQL database
+# Streaming Twitter Climbing Data into a MYSQL Database
 
 My first time using Twitter's API to collect data and add to a MYSQL database.
 I decided to find words relating to rock climbing as I know there will be less tweets and I can see if the code ran properly.
