@@ -10,7 +10,7 @@ Set-up a Twitter account:
 ```
 https://developer.twitter.com/en/apps
 ```
-Select Creat App and follow the instructions
+Select Create App and follow the instructions
 
 ### Prerequisites
 You should have Python and MYSQL Workbench installed.
