@@ -11,11 +11,11 @@ import subprocess
 #importing file which sets env variable
 
 
-
-consumer_key = 'zcUIqFstFsgXmNOMyZnIkWLGN'
-consumer_secret = 'Xk3VxqqjpWs0bXjZt18St1FkCGwzVK2ZrHZ1Jf8zk9OmAmbtxI'
-access_token = '1136790153790414851-o6OnQ6jHwvUGRTgfQtSPiz2GMYnGIO'
-access_token_secret = '2SBbSPfd4R4kJngoDsmoE6zhoHTbZP4b52FqQyDd5urFj'
+# replace pw1 through pw4 with your keys and tokens
+consumer_key = 'pw1'
+consumer_secret = 'pw2'
+access_token = 'pw3'
+access_token_secret = 'pw4'
 
 
 def connect(username, created_at, tweet, retweet_count, place , location):
